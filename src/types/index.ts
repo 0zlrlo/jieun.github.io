@@ -36,6 +36,13 @@ export interface AwardProps {
   description: string;
 }
 
+export interface ScholarshipProps {
+  id: number;
+  name: string;
+  organizer: string;
+  description: string;
+}
+
 export interface DataProps {
   resumeTitle: {
     title: string;
@@ -62,4 +69,5 @@ export interface DataProps {
     organizer: string;
   }[];
   award: AwardProps[];
+  scholarship: ScholarshipProps[];
 }
