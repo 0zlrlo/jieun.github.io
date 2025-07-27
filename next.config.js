@@ -1,6 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
+  trailingSlash: true,
+  images: {
+    unoptimized: true,
+  },
+
+  // 기존 Webpack 설정 유지
   webpack: (config) => {
     config.module.rules.push({
       test: /\.md/,
