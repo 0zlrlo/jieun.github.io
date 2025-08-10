@@ -29,26 +29,6 @@
 
   "project": [
     {
-      "id": 0,
-      "name": "갈릭포테이토",
-      "description": "감자튀김이 케찹소스를 피해 갈릭소스로 가는 여정을 그린 횡스크롤 러닝 게임 개발",
-      "webUrl": "https://www.notion.so/Project-7-9865ce0856224ee4ab004de6922636fd?pvs=21",
-      "repoUrl": "https://github.com/SSUKaleido/GarlicPotato",
-      "isTeam": false,
-      "period": ["2022. 07", "2022. 09"],
-      "stack": ["C#", "Unity"]
-    },
-    {
-      "id": 1,
-      "name": "패스리즘",
-      "description": "사용자가 원하는 대로 알고리즘을 생성해 맞춤형 비밀번호를 만들고 관리하는 앱 개발",
-      "webUrl": "https://www.notion.so/a50fefe5de9c4765ac6e8acec5c2bf30?v=0a0aac6b91f44e088b603ffbbac9f094",
-      "repoUrl": "https://github.com/0zlrlo/Passrithm",
-      "isTeam": false,
-      "period": ["2022. 10", "2022. 12"],
-      "stack": ["Java", "Android Studio", "Firebase"]
-    },
-    {
       "id": 2,
       "name": "모두가든",
       "description": "식물을 사랑하는 사람들이 모인 식집사 커뮤니티 앱 개발",
@@ -86,48 +66,10 @@
       "isTeam": true,
       "period": ["2023. 08", "2024. 01"],
       "stack":[]
-    },
-    {
-      "id": 6,
-      "name": "코고",
-      "description": "숭실대 내부 선후배 간 커피챗 활동을 도모하는 코고 서비스 웹 서비스 기획",
-      "webUrl": "https://www.notion.so/COGO-cd58b85f8bc04072973fe725819940f0",
-      "repoUrl":"",
-      "isTeam": true,
-      "period": ["2024. 03", "2024. 07"],
-      "stack":[]
-    },
-    {
-      "id": 7,
-      "name": "졸업생 춘식이",
-      "description": "3D virtual human인 춘식이를 사실적으로 모델링 프로젝트 개발",
-      "webUrl": "",
-      "repoUrl":"https://github.com/1013115/emojmo/commits/master/",
-      "isTeam": false,
-      "period": ["2024. 03", "2024. 06"],
-      "stack":["OpenGL", "C"]
     }
   ],
 
   "activity": [
-    {
-      "id": 0,
-      "name": "서해중학교 메타버스 교육봉사 멘토",
-      "period": ["2021.07"],
-      "description": "HMD 제작, 메타버스, 가상현실과 가상현실을 적용하고 있는 콘텐츠에 대하여 교육 진행"
-    },
-    {
-      "id": 1,
-      "name": "2023 IT대학 학생회",
-      "period": ["2023. 01", "2023. 03"],
-      "description": "사무국원으로 활동"
-    },
-    {
-      "id": 2,
-      "name": "조선일보 3기 ALC 장기 서포터즈",
-      "period": ["2023. 04", "2023. 05"],
-      "description": "아시안 리더십 콘퍼런스 현장 참관 및 홍보 콘텐츠 제작"
-    },
     {
       "id": 3,
       "name": "한국장학재단 제 27기 하계 대학생 재능봉사 캠프 멘토",
@@ -135,22 +77,10 @@
       "description": "교육지원이 필요한 청소년들에게 IT지식을 가르쳐주는 멘토로 활동"
     },
     {
-      "id": 4,
-      "name": "SOPT MIND23 컨퍼런스 서포터즈",
-      "period": ["2023. 07", "2023. 08"],
-      "description": "SOPT 31기 안드로이드 파트 부원으로 활동 후, IT컨퍼런스 운영 담당"
-    },
-    {
-      "id": 5,
-      "name": "숭실대학교 개발동아리 연합세미나 SSU Devcon 부스 운영",
-      "period": ["2023. 09"],
-      "description": "AWS 비공식 활동을 인정받은 ASC 1기 부원으로서, AWS serverless 채팅 서비스 개발 및 설명"
-    },
-    {
       "id": 6,
       "name": "AWS 비공식 활동을 인정받은 ASC에서 발표 진행",
       "period": ["2023. 11"],
-      "description": "AWS 비공식 활동을 인정받은 ASC 1기 부원으로서, AWS 데이터베이스를 주제로 발표"
+      "description": "AWS 비공식 활동을 인정받은 ASC 1기 부원으로서, AWS 데이터베이스를 주제로 발표 및 AWS serverless 채팅 서비스 개발, 설명"
     },
     {
       "id": 7,
